@@ -1,7 +1,0 @@
-
-Reference:
-https://stackoverflow.com/questions/2832017/what-is-the-difference-between-loose-coupling-and-tight-coupling-in-the-object-o/2832065
-https://www.techopedia.com/definition/639/loose-coupling
-http://bulgerpartners.com/how-loosely-coupled-architectures-are-helping-the-modernization-of-legacy-software/
-
-in theory there is no difference between theory and practice, while in practice there is
